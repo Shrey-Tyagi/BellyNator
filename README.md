@@ -1,14 +1,29 @@
-# NEO
+<h1 align="center">BellyNator</h1>
+
+## Inspiration
+COVID-19 has impacted our lives in many ways, one such is by making us stay indoors without any physical activity. Without access to gym and the outdoors many of us have fallen short on our health goles.
+So in order to do that here is a game for you that would make your body move and terminate the belly! Here be cautious of the red dot and catch all the green ones. 
+Bonus points for push-ups and Squats!!
+
+## What it does
+Takes live feed from your webcam and uses posenet-ml5 to check for if a user is performing pushups and squats. 
+Furthermore, a user can also catch the green ball present on the screen while evading the red moving ball.
+Tracking the user's movements and awarding points for the same is done in real time. 
+
+## How I built it
+Major part of the making was using ml5.js on pj5 editor online with a pinch of bootstrap.
+
+## Challenges I ran into
+I had mostly hardware and connectivity issues.
+
+## Accomplishments that I'm proud of
+Winning a prize in def hacks. 
+Working for a non for profit The OpenCode Foundation.
+Taking part in HACKS'20 while job hunting.
+
+## What's next for Belly Nagator
+A signup page and backend to store different users data along with visual representation of the same in similar lines of github commits.
 Brief Introduction to our project:
-We are trying to build a fun game which can engage the user and at the same time can help the user stay fit in these difficult times.
-The basic idea of the game is that the user has to do some movements and then he'll be winning some rewards for that.The game will progress in this manner.
-Tracking the user's movements and building an animated model with which the user can interact are two sub-parts of the project.
 
-Libraries and dependancies:
-The online editor that we are using:https://editor.p5js.org/#
-The library we are using for detecting the position of the user:https://ml5js.org/reference/api-PoseNet/
 
-The code that we have done so far has been added to the repo.The files can be opened in p5 editor mentioned above.
-The individual files have been uploaded.The main code file is sketch.js and you can open it in the p5 editor.Rest of the files are dependancies.
 
-Warning:Dont open it by Node use browser
