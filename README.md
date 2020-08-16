@@ -2,8 +2,8 @@
 
 ## Inspiration
 COVID-19 has impacted our lives in many ways, one such is by making us stay indoors without any physical activity. Without access to gym and the outdoors many of us have fallen short on our health goles.
-So in order to do that here is a game for you that would make your body move and terminate the belly! Here be cautious of the red dot and catch all the green ones. 
-Bonus points for push-ups and Squats!!
+So in order to do that here is a game for you that would make your body move and terminate the belly! Here be cautious of the red dot don't let your hands touch it(-ve points) and catch all the green(+50 points) ones. 
+Bonus points for push-ups and Squats!!(Seperate counters in the middle and left)
 
 ## What it does
 Takes live feed from your webcam and uses posenet-ml5 to check for if a user is performing pushups and squats. 
@@ -24,6 +24,7 @@ Taking part in HACKS'20 while job hunting.
 ## What's next for Belly Nagator
 A signup page and backend to store different users data along with visual representation of the same in similar lines of github commits.
 Brief Introduction to our project:
+
 
 
 
